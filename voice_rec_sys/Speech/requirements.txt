@@ -1,0 +1,12 @@
+Cython==0.29.21
+librosa==0.8.0
+phonemizer==3.0.1
+scipy==1.5.2
+tensorboard==2.3.0
+Unidecode==1.1.1
+torch
+torchvision
+pydub
+tqdm
+ipython
+numpy
